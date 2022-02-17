@@ -1,0 +1,23 @@
+{
+  "isPublic": false,
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "color": "#C7F3E3",
+  "icon": "plant",
+  "slug": "first-app-smith",
+  "unpublishedAppLayout": {
+    "type": "FLUID"
+  },
+  "publishedAppLayout": {
+    "type": "FLUID"
+  },
+  "evaluationVersion": 2,
+  "publishedModeThemeId": "61d6d26687725863b5edef09",
+  "editModeThemeId": "61d6d26687725863b5edef09",
+  "createdAt": {
+    "seconds": 1645084433,
+    "nanos": 579000000
+  },
+  "deleted": false
+}
